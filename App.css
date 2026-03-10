@@ -1,0 +1,50 @@
+.container{
+  padding:40px;
+  font-family:Arial;
+}
+
+.button{
+  padding:10px 18px;
+  background:#4CAF50;
+  color:white;
+  border:none;
+  cursor:pointer;
+}
+
+.progress{
+  width:300px;
+  background:#eee;
+  border-radius:10px;
+}
+
+.progress-bar{
+  height:20px;
+  background:#4CAF50;
+  border-radius:10px;
+}
+
+.badge{
+  display:inline-block;
+  background:#007bff;
+  color:white;
+  padding:6px 10px;
+  margin:5px;
+  border-radius:20px;
+}
+
+.card{
+  margin-top:20px;
+  padding:15px;
+  border:1px solid #ddd;
+  border-radius:10px;
+  background:#fafafa;
+}
+.missing-badge{
+  background:#ff4d4f;
+  color:white;
+  padding:6px 12px;
+  margin:5px;
+  border-radius:20px;
+  display:inline-block;
+  font-size:14px;
+}
